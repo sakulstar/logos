@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 296.99999"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="NotificationGang.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.79464088"
+     inkscape:cx="396.40548"
+     inkscape:cy="561.25983"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g21328" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="fill:#4d4d4d">
+    <g
+       id="g21328"
+       inkscape:label="Notification Gang Logo"
+       transform="translate(0,-15.115936)">
+      <path
+         id="path15905"
+         style="opacity:1;fill:#7222c2;fill-opacity:1;stroke-width:0.389659;paint-order:stroke fill markers"
+         d="m 92.836709,198.4437 a 12.742055,12.742055 0 0 0 12.163081,8.94932 12.742055,12.742055 0 0 0 12.16308,-8.94932 z" />
+      <path
+         id="rect3497"
+         style="opacity:1;fill:#7222c2;fill-opacity:1;stroke-width:0.179335;paint-order:stroke fill markers"
+         d="m 100.53787,119.83884 c -12.451284,0 -22.475294,10.16091 -22.475294,22.78223 v 15.20766 c 0,7.59667 -3.63467,14.29803 -9.24105,18.43291 -2.51954,1.99913 -4.13639,5.10874 -4.13639,8.61804 0,6.06047 4.81316,10.93937 10.79198,10.93937 h 25.060754 8.92428 25.06032 c 5.97881,0 10.7924,-4.8789 10.7924,-10.93937 0,-3.5205 -1.62818,-6.63749 -4.16161,-8.63581 -5.59233,-4.13634 -9.21583,-10.82965 -9.21583,-18.41514 v -15.20766 c 0,-12.62132 -10.02402,-22.78223 -22.47528,-22.78223 z" />
+      <path
+         id="rect21320"
+         style="opacity:1;fill:#ffffff;stroke-width:0.264583;paint-order:stroke fill markers"
+         d="m 110.52452,145.35382 h 5.1912 v 21.866 h -5.1912 z m -16.240236,0 h 5.191207 v 21.866 h -5.191207 z" />
+    </g>
+  </g>
+</svg>
